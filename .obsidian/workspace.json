@@ -1,0 +1,297 @@
+{
+  "main": {
+    "id": "a18734aceacd8793",
+    "type": "split",
+    "children": [
+      {
+        "id": "6231eb0d3c688700",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09719400825f193c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WPT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "WPT"
+            }
+          },
+          {
+            "id": "992ecd8c28358061",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WPT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "WPT"
+            }
+          },
+          {
+            "id": "06f64559de22c290",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Medtronic/ERP review comments - Round 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ERP review comments - Round 1"
+            }
+          },
+          {
+            "id": "c98844eae360685c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Medtronic/ERP review comments - Round 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ERP review comments - Round 1"
+            }
+          },
+          {
+            "id": "a831b82a9d19ba26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "An Overview of My Ideas About MRI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "An Overview of My Ideas About MRI"
+            }
+          },
+          {
+            "id": "c40a29fbd8df2c3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Impedance as lead heating measure.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Impedance as lead heating measure"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1ebdc89cf3d49c37",
+    "type": "split",
+    "children": [
+      {
+        "id": "10069486da1e623d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ebddb88725061f9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f9c1561ea4af56e6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3bcef0de06455b9b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1087b37fe75e7468",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc6e5f3ac3ac7e60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b85c5298a8f83d9f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Medtronic.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Medtronic"
+            }
+          },
+          {
+            "id": "3b1fdc3f09738dc3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Medtronic.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Medtronic"
+            }
+          },
+          {
+            "id": "c3854336562e779a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c41d4aff788f809a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "d7cdb755ee76f669",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "An Overview of My Ideas About MRI.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of An Overview of My Ideas About MRI"
+            }
+          },
+          {
+            "id": "af6898466e707c97",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "af6898466e707c97",
+  "lastOpenFiles": [
+    "temp_git",
+    "New folder",
+    "Medtronic/ERP review comments - Round 1.md",
+    "An Overview of My Ideas About MRI.md",
+    "MRI",
+    "Biotech Industry/An Overview of the biotech space.md",
+    "Ablation & Therapeutic Energy.md",
+    "Biotech Industry",
+    "Medtronic/Concept Engineering.md",
+    "Medtronic/Green Belt.md",
+    "Medtronic/DRM.md",
+    "Medtronic/Medtronic.md",
+    "Research Ideas.md",
+    "WPT.md",
+    "Medtronic.md",
+    "Concept Engineering.md",
+    "Medtronic",
+    "ERP review comments - Round 1.md",
+    "Green Belt.md",
+    "DRM.md",
+    "Impedance as lead heating measure.md",
+    "initial review and value proposition.md",
+    "Pasted image 20260325093321.png",
+    "Pasted image 20260323152724.png",
+    "create a link.md",
+    "desktop.ini"
+  ]
+}

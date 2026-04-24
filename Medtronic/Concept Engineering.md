@@ -1,0 +1,7 @@
+Concept Engineering is an engineering practice, i.e. it is different than research. In research we typically have an idea, a spark, a feeling, a question. We really do not know what lies in front of us, but we are ready to push into the unknown by applying vast amounts of knowledge from seemingly disparate domains. The result is typically "we now know that this works like this in this specific scenario". A concept is the next step after an idea. It is a system/ sub-assembly part of a system to solve a more broad more "real-world" problem. A concept usually does not include searching through unknown areas, Moreso it is evaluating tradeoffs of different known methods. Now there are a bunch of "known methods" and many can work, but would work poorly. There are some that work OK in specific scenarios, and there is probably between 1 and 3 "optimal" solutions for each scenario. In stage 1, Concept Generation, we list all of our known methods and potentially do some methods research, finding out if we have a knowledge gap in our methods selection. After we get 10-15 methods, we then go in analytically and evaluate the different methods for tradeoffs in a multi-objective space to determine what methods are worth further investigation.
+
+Two stages:
+1) Concept Generation
+2) Concept Selection
+
+![[Pasted image 20260325093321.png]]

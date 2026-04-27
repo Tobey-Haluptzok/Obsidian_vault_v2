@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "An Overview of My Ideas About MRI.md",
+                "file": "An Overview of My Ideas About MRI and Healthcare.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "An Overview of My Ideas About MRI"
+              "title": "An Overview of My Ideas About MRI and Healthcare"
             }
           },
           {
@@ -265,12 +265,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "af6898466e707c97",
+  "active": "a831b82a9d19ba26",
   "lastOpenFiles": [
     "temp_git",
     "New folder",
     "Medtronic/ERP review comments - Round 1.md",
-    "An Overview of My Ideas About MRI.md",
+    "An Overview of My Ideas About MRI and Healthcare.md",
     "MRI",
     "Biotech Industry/An Overview of the biotech space.md",
     "Ablation & Therapeutic Energy.md",

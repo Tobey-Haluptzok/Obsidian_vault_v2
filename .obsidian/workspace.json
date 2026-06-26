@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Improving performance by leveraging Priors.md",
+                "file": "Introspections/My overall passions for technology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Improving performance by leveraging Priors"
+              "title": "My overall passions for technology"
             }
           }
         ]
@@ -196,8 +196,15 @@
   },
   "active": "024975d0802b7f3b",
   "lastOpenFiles": [
-    "MRI/An Overview of My Ideas About MRI and Healthcare.md",
+    "Medtronic/FY27 Goals (Deliverables).md",
+    "Introspections/My overall passions for technology.md",
+    "Introspections",
+    "MRI/Untitled",
+    "Medtronic/Concept Engineering.md",
     "Improving performance by leveraging Priors.md",
+    "Medtronic/Impedance as lead heating measure.md",
+    "Medtronic/Research Ideas.md",
+    "MRI/An Overview of My Ideas About MRI and Healthcare.md",
     "Medtronic/ERP review comments - Round 1.md",
     "temp_git",
     "New folder",
@@ -205,7 +212,6 @@
     "Biotech Industry/An Overview of the biotech space.md",
     "Ablation & Therapeutic Energy.md",
     "Biotech Industry",
-    "Medtronic/Concept Engineering.md",
     "Medtronic/Green Belt.md",
     "Medtronic/DRM.md",
     "Medtronic/Medtronic.md",

@@ -21,7 +21,8 @@ I think that training AI models to automatically and more accurately adjust ther
 	4) Represented core R&D EE in the feed your brain tech fellows seminar initiative (Q1-Q4)
 2) Request from field education
 	1) Responded to Sara Kinnnischtzke and Bruce Vernet regarding a HCP DBS study inquiry (Q1)
-	2) 
+	2) Responded to HCP educational series request for availability (Q1)
+	3) 
 3) Expanded labeling by developing a novel analysis method that laid the foundation of how we are able to evaluate MRI safety for longer scan time durations (Q1)
 4) Submitted two abstract to S&T2026, one educational poster MRI capabilities of and another on an optimization toolbox for improved telemetry reliability (Q1)
 5) Submitted Patent Ideas
@@ -29,3 +30,6 @@ I think that training AI models to automatically and more accurately adjust ther
 	2) "Self-Resonant Wireless Power Transmitter"
 6) Generation of the DVT readiness excel sheet to organize ALL of the MRI test methods into a single place
 	1) This has not been done before, the structure that I developed and implemented manages the complex multistep, joint benchtop, animal data, simulation data required to prove MRI safety into a easy to read and traceable single source of truth. (Q1)
+7) Re-qualified the DiSC measurement system twice. The first time to update the INS holding device we use and the second re-qual for the stepper motor that we replaced (Q1)
+8) Aided Korea Regulatory in MR image distortion testing question (Q1)
+9) 

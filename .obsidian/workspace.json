@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introspections/What Constitutes A Good Life.md",
+                "file": "Medtronic/FY27 Goals (Deliverables).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "What Constitutes A Good Life"
+              "title": "FY27 Goals (Deliverables)"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -196,8 +198,8 @@
   },
   "active": "024975d0802b7f3b",
   "lastOpenFiles": [
-    "Introspections/R&D QMS Structures.md",
     "Introspections/What Constitutes A Good Life.md",
+    "Introspections/R&D QMS Structures.md",
     "Introspections/My overall passions for technology.md",
     "Medtronic/FY27 Goals (Deliverables).md",
     "MRI/ISMRM 2027 Ideas and TO-DO.md",

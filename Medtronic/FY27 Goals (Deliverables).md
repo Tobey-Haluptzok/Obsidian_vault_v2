@@ -23,7 +23,7 @@ I think that training AI models to automatically and more accurately adjust ther
 	1) Responded to Sara Kinnnischtzke and Bruce Vernet regarding a HCP DBS study inquiry (Q1)
 	2) Responded to HCP educational series request for availability (Q1)
 	3) 
-3) Expanded labeling by developing a novel analysis method that laid the foundation of how we are able to evaluate MRI safety for longer scan time durations (Q1)
+3) Expanded labeling by developing a novel analysis method that laid the foundation of how we are able to evaluate MRI safety for longer scan time durations, 60 min scan time doc(Q1)
 4) Submitted two abstract to S&T2026, one educational poster MRI capabilities of and another on an optimization toolbox for improved telemetry reliability (Q1)
 5) Submitted Patent Ideas
 	1) "Dual-Powered System for Brain-Computer Interface (BCI) Wireless Data Transfer"
@@ -32,4 +32,11 @@ I think that training AI models to automatically and more accurately adjust ther
 	1) This has not been done before, the structure that I developed and implemented manages the complex multistep, joint benchtop, animal data, simulation data required to prove MRI safety into a easy to read and traceable single source of truth. (Q1)
 7) Re-qualified the DiSC measurement system twice. The first time to update the INS holding device we use and the second re-qual for the stepper motor that we replaced (Q1)
 8) Aided Korea Regulatory in MR image distortion testing question (Q1)
-9) 
+
+9) Setup a new Sim computer with custom engineer chosen GPU (Q2)
+10) Derived BLE injection voltage value determination pipeline(Q2)
+	1) Ran the EM simulations to determine IV on BLE per 1v/m plane wave(Q2)
+		1) 1.5T--> 8e-5, 3T-->2e-4
+	2) Scaled these to 99.999th percentile human body model library predictions
+		1) 1.5T--> 0.2V, 3T--> 0.8V
+11) Get the new MRI RF safety pipeline NPSW completely approved (Q2)

@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "FY27 Goals (Deliverables)"
             }
+          },
+          {
+            "id": "ba844bcfb647a260",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026-11-09.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-11-09"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,14 +211,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "024975d0802b7f3b",
+  "active": "ba844bcfb647a260",
   "lastOpenFiles": [
+    "2026-11-04.md",
+    "2026-11-05.md",
+    "2026-11-06.md",
+    "2026-11-09.md",
+    "Untitled.md",
+    "Medtronic/FY27 Goals (Deliverables).md",
     "Introspections/What Constitutes A Good Life.md",
     "Introspections/R&D QMS Structures.md",
     "Introspections/My overall passions for technology.md",
-    "Medtronic/FY27 Goals (Deliverables).md",
     "MRI/ISMRM 2027 Ideas and TO-DO.md",
-    "Untitled.md",
     "MRI/An Overview of My Ideas About MRI and Healthcare.md",
     "Improving performance by leveraging Priors.md",
     "Medtronic/Medtronic Goals & Aspirations/General thoughts on my ideal role.md",
@@ -232,10 +251,6 @@
     "Biotech Industry/An Overview of the biotech space.md",
     "Ablation & Therapeutic Energy.md",
     "Research Ideas.md",
-    "WPT.md",
-    "Medtronic.md",
-    "Concept Engineering.md",
-    "ERP review comments - Round 1.md",
     "Pasted image 20260325093321.png",
     "Pasted image 20260323152724.png"
   ]
